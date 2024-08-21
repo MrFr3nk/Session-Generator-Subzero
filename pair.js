@@ -60,13 +60,13 @@ router.get('/', async (req, res) => {
                  let messg = `
     *_Pair Successful🥵._*
 put the above ID in the sessID variable when deploying .
-Use this Session ID for all bots by Tᴀɪʀᴀ Mᴀᴋɪɴᴏ.
+Use this Session ID for all bots by Mr Frank.
 ╔═════◇
-║       『••• Tᴀɪʀᴀ TECH•••』
-║ *Channel:* _https://whatsapp.com/channel/0029Vag5l2ALSmbi14YryJ2r_
-║ *Main GC:* _https://chat.whatsapp.com/EKdfDFDoi5C3ck88OmbJyk_
-║ *Github:* _https://github.com/anonphoenix007_
-║ *Owner:* _https://t.me/Tha_Healer_
+║       『••• Mr Frank TECH•••』
+║ *Channel:* _https://whatsapkp.com/channel/0029Vag5l2ALSmbi14YryJ2r_
+║ *Main GC:* _https://chat.whkatsapp.com/EKdfDFDoi5C3ck88OmbJyk_
+║ *Github:* _https://github.com/mrfr3nk
+║ *Owner:* _https://t.me/mrfrankofc_
 ║ *Note :*_Do not provide your SESSION_ID to_
 ║ _anyone otherwise that can access your WA messages_
 ║ _*Follow Me and Star my repo for more 🫡.*_
